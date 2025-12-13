@@ -1,0 +1,21 @@
+{
+  "name": "WebShop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:net": "npx playwright test --grep @NET",
+    "test:api": "npx playwright test --grep @API",
+    "test:dat": "npx playwright test --grep @DAT",
+    "test:all": "npx playwright test",
+    "allure:report": "allure generate allure-results --clean -o allure-report && allure open allure-report",
+    "allure:serve": "allure serve allure-results"
+  },
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1",
+    "allure-commandline": "^2.36.0",
+    "allure-playwright": "^3.4.3"
+  }
+}

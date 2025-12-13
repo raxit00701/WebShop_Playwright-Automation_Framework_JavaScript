@@ -1,0 +1,18 @@
+[
+  {
+    "testName": "Search for Phone",
+    "keyword": "phone"
+  },
+  {
+    "testName": "Search for Laptop",
+    "keyword": "laptop"
+  },
+  {
+    "testName": "Search for Camera",
+    "keyword": "camera"
+  },
+  {
+    "testName": "Search for Invalid Keyword",
+    "keyword": "xyz123"
+  }
+]

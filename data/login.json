@@ -1,0 +1,20 @@
+[
+  {
+    "testName": "Valid Login",
+    "email": "neyon63299@datehype.com",
+    "password": "Password@123",
+    "rememberMe": true
+  },
+  {
+    "testName": "Invalid Login - Empty Password",
+    "email": "neyon63299@datehype.com",
+    "password": "",
+    "rememberMe": true
+  },
+  {
+    "testName": "Invalid Login - Wrong Email",
+    "email": "wronguser@example.com",
+    "password": "Password@123",
+    "rememberMe": false
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "testName": "Valid Purchase - Qty 2",
+    "qty": "2",
+    "country": "United States",
+    "state": "New York",
+    "zip": "111001",
+    "billingAddressId": "4586122",
+    "pickupInStore": true
+  },
+  {
+    "testName": "Invalid Purchase - Wrong Zip",
+    "qty": "1",
+    "country": "United States",
+    "state": "California",
+    "zip": "ABCD",
+    "billingAddressId": "4586122",
+    "pickupInStore": false
+  },
+  {
+    "testName": "Invalid Purchase - Negative Qty",
+    "qty": "-5",
+    "country": "United States",
+    "state": "Texas",
+    "zip": "75001",
+    "billingAddressId": "4586122",
+    "pickupInStore": true
+  }
+]
