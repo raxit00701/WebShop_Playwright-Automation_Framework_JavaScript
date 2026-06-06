@@ -474,4 +474,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🎨 **Clean Architecture** following POM and best practices
 
 ---
+## License
+
+This repository contains a proprietary test automation framework.
+
+© 2026 Raxit Sharma. All Rights Reserved.
+
+No permission is granted to use, copy, modify, distribute, or incorporate
+this framework into personal, academic, internal business, or commercial
+projects without explicit written permission.
+
 
