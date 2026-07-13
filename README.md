@@ -443,7 +443,7 @@ Contributions are welcome! Please follow these steps:
 
 For questions or issues, please:
 - Open an issue on GitHub
-- Contact: your.email@example.com
+- Contact: raxit.sharma.qa@gmail.com
 - Documentation: [Playwright Docs](https://playwright.dev/)
 
 ## 📄 License
