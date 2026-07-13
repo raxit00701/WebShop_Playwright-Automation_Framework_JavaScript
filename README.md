@@ -405,12 +405,7 @@ npx playwright show-report
 
 **Test Execution Coverage: 95%+**
 
-## 📸 Screenshots & Demo
 
-### 🎥 Execution Video
-Watch the complete test execution video showcasing all test scenarios:
-
-**[▶️ Watch Full Test Execution Video](https://youtu.be/your-video-link)**
 
 ---
 
