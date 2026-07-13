@@ -409,11 +409,11 @@ npx playwright show-report
 
 ---
 
-### 📊 Allure Report Dashboard
+## 📊 Allure Report Dashboard
 
-![Allure Dashboard](https://drive.google.com/file/d/1m0O8v4uv_ZiHGgB9BRKSLgtACLNCJbeg/view?usp=drive_link)
+[![Allure Report Dashboard](https://drive.google.com/uc?export=view&id=1m0O8v4uv_ZiHGgB9BRKSLgtACLNCJbeg)](https://drive.google.com/file/d/1m0O8v4uv_ZiHGgB9BRKSLgtACLNCJbeg/view?usp=drive_link)
 
-*Allure report showing test execution summary, trends, and detailed results*
+*Click the image above to open the full-size Allure report dashboard.*
 
 
 
